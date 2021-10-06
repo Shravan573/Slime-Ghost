@@ -1,8 +1,6 @@
 # Slime-Ghost
 Slime Ghost game code
 this repository is created for code review for CrazyLabs home assignment 
-Project Title
-Simple overview of use/purpose.
 
 Description:
 This codes snippets are used for movement, camera, etc and is created for code review for CrazyLabs home assignment 
