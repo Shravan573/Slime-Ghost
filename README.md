@@ -8,7 +8,7 @@ This codes snippets are used for movement, camera, etc and is created for code r
 prerequisites: Android 
 
 Developers Contacts:
-shravab587@gmail.com and
+shravab587@gmail.com or
 inno.innocent1997@gmail.com
 
 Version History
