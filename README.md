@@ -1,6 +1,6 @@
 # Slime-Ghost
 Slime Ghost game code
-this repository is created for code review for CrazyLabs home assignment 
+
 
 Description:
 This codes snippets are used for movement, camera, etc and is created for code review for CrazyLabs home assignment 
@@ -8,7 +8,7 @@ This codes snippets are used for movement, camera, etc and is created for code r
 prerequisites: Android 
 
 Developers Contacts:
-shravab587@gmail.com
+shravab587@gmail.com and
 inno.innocent1997@gmail.com
 
 Version History
