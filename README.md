@@ -1,6 +1,6 @@
 # Slime-Ghost
 Slime Ghost game code
-This repository is created for code review for CrazyLabs home assignment 
+this repository is created for code review for CrazyLabs home assignment 
 Project Title
 Simple overview of use/purpose.
 
